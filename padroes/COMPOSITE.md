@@ -3,7 +3,7 @@
 * Padrão Composite
 * Padrão Estrutural
 ## 2. **Intent:**
-* Modifica a estrutura de um objeto
+* Modifica a estruttura de um objeto
 ## 3. **Motivition:**
 * Para casos que requerem objetos que se comportam como estrutura em árvore para
     representar hierarquias.
@@ -28,4 +28,4 @@
 ######    **Client**
 * Manipula os objetos da composição via interface Component    
 ###### 7. **Sample Code:**
-[github.com/lufalves23/PadroesDeProjeto/padroes/src/br/padroes/composite/](https://github.com/lufalves/PadroesDeProjeto/tree/master/padroes/src/br/padroes/composite)
+[github.com/lufalves23/PadroesDeProjeto/padroes/src/br/padroes/templateMethod/](https://github.com/lufalves/PadroesDeProjeto/tree/master/padroes/src/br/padroes/templateMethod)
