@@ -10,7 +10,7 @@
  - O construtor da classe é protegido
  - Todo o programa usa o Singleton para acessar os comportamentos nele definidos.
  ## 5. **Structure:**
- ![Structure Singleton Basic] (https://i.stack.imgur.com/KtHqz.jpg)
+ ![Structure Singleton Basic](https://i.stack.imgur.com/KtHqz.jpg)
  ## 6. **Participants:**
 1. Singleton:
    - É a única classe deste padrão.
