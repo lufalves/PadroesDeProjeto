@@ -3,7 +3,7 @@
 * Padrão Composite
 * Padrão Estrutural
 ## 2. **Intent:**
-* Modifica a estruttura de um objeto
+* Modifica a estrutura de um objeto
 ## 3. **Motivition:**
 * Para casos que requerem objetos que se comportam como estrutura em árvore para
     representar hierarquias.
